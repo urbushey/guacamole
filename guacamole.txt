@@ -1,0 +1,11 @@
+# guacamole.txt
+ 
+Ingredients
+===========
+* 3 avocados
+* 1 red onion
+* 1 lime
+ 
+Directions
+==========
+Mash the avocados in a bowl. Chop the onion and add it. Squeeze the lime on top.
